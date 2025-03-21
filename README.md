@@ -13,13 +13,13 @@
 ![image](https://github.com/user-attachments/assets/f7f9898e-bb57-4423-8dce-ffad3203dccf)
 
 
-- 데이터 셋 활용<br>
-[메인 데이터 셋](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data/data)<br>
-[보조 데이터 셋1](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset?resource=download)<br>
-[보조 데이터 셋2](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset?resource=download)<br>
-[보조 데이터 셋3](https://www.kaggle.com/datasets/haseebindata/student-performance-predictions/data)<br>
-[보조 데이터 셋4](https://www.kaggle.com/datasets/clemencetravers/student-grades?select=Students_Grading_Dataset.csv)<br>
-[보조 데이터 셋5](https://archive.ics.uci.edu/dataset/320/student+performance)<br>
+### 데이터 셋 활용<br>
+- [메인 데이터 셋](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data/data)<br>
+- [보조 데이터 셋1](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset?resource=download)<br>
+- [보조 데이터 셋2](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset?resource=download)<br>
+- [보조 데이터 셋3](https://www.kaggle.com/datasets/haseebindata/student-performance-predictions/data)<br>
+- [보조 데이터 셋4](https://www.kaggle.com/datasets/clemencetravers/student-grades?select=Students_Grading_Dataset.csv)<br>
+- [보조 데이터 셋5](https://archive.ics.uci.edu/dataset/320/student+performance)<br>
 
 
 ## 결론 
